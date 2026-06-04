@@ -1,6 +1,12 @@
-# FreeCodeCamp Curriculum Outline Project
+# FreeCodeCamp Curriculum Outline (HTML Project)
 
-This is a beginner-friendly HTML project built as part of the FreeCodeCamp curriculum.
+This is a beginner-friendly HTML project created as part of the FreeCodeCamp curriculum.
+
+## 📸 Preview
+
+![Project Screenshot](screenshot.png)
+
+This is a preview of the FreeCodeCamp Curriculum Outline HTML project created by Sourav Ghoshal.
 
 ## 📚 About the Project
 
@@ -12,24 +18,31 @@ This project demonstrates a simple curriculum outline using basic HTML structure
 
 ## 🧠 What You Will Learn
 
-* HTML structure basics
-* How to organize content in a webpage
+* HTML basics
+* How to structure a webpage
 * Beginner-friendly layout techniques
+
+## 🛠 Tech Used
+
+* HTML5
 
 ## 🚀 Live Demo
 
-(Add GitHub Pages link here)
+(Add your GitHub Pages link here)
 
 ## 👨‍💻 Author
 
-Sourav Ghoshal
-GitHub: https://github.com/thesrv
+Sourav Ghoshal (thesrvleo)
+GitHub: https://github.com/thesrvleo
 
-## 🔍 Keywords
+## 🔍 SEO Keywords
 
-freecodecamp solutions, html beginner project, curriculum outline html, sourav ghoshal projects
+freecodecamp solutions, html curriculum outline, beginner html project, sourav ghoshal, thesrvleo
 
-## ⭐ Contribution
+## ⭐ Support
 
-Feel free to fork and improve this project for learning purposes.
-# FreeCodeCamp-Curriculum-Outline
+If this helped you, give it a ⭐ on GitHub.
+
+## 📈 Use Case
+
+Perfect for beginners looking for FreeCodeCamp HTML solutions.
