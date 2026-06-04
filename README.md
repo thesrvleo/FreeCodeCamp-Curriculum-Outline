@@ -28,7 +28,7 @@ This project demonstrates a simple curriculum outline using basic HTML structure
 
 ## 🚀 Live Demo
 
-(Add your GitHub Pages link here)
+https://thesrvleo.github.io/freecodecamp-curriculum-outline-html/
 
 ## 👨‍💻 Author
 
